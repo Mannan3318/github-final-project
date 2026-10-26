@@ -1,5 +1,7 @@
 # GitHub Final Project
+# Contributing
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 ## Simple Interest Calculator
 
 This project calculates simple interest based on the principal amount, annual rate of interest, and time period.
